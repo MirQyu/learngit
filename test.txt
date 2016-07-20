@@ -1,1 +1,5 @@
 I'm just testing.
+successful~
+good
+I'm going to study English soon.
+add /usr/bin/env
