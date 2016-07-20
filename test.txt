@@ -3,4 +3,5 @@ successful~
 good
 I'm going to study English soon.
 add /usr/bin/env
-distributed & simple
+distributed and simple
+>>>>>>> e78bcc1ab30b60b423cd8ff08b0ce3fcee9579bf
